@@ -1,1 +1,1 @@
-🌟Introduction to Semiconductor Packaging🌟
+Introduction to Semiconductor Packaging
